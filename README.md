@@ -57,8 +57,8 @@ and we can also format from the other stylelint's configration files or packages
 - require `;` in last declaration
 - require 1 space between values and `!important`
 - disallow any spaces between `!` and `important`
-- leave 1 blank line between rules
-- leave 1 blank line between rules in atrules
+- leave 1 blank line between rules https://stylelint.io/user-guide/rules/rule-empty-line-before/
+- leave 1 blank line between rules in atrules https://stylelint.io/user-guide/rules/at-rule-empty-line-before/
 - disallow any blank lines between `@import`
 
 ### for nested selector syntax
