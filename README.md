@@ -47,12 +47,12 @@ and we can also format from the other stylelint's configration files or packages
 
 ### Basic
 
-- 2 spaces indentation
+- 2 spaces indentation - https://stylelint.io/user-guide/rules/indentation/
 - require 1 space between a simple selector and combinator
 - require 1 space between selectors and `{`
 - require new line after `{`
-- disallow any spaces between property and `:`
-- require 1 space between `:` and values
+- disallow any spaces between property and `:` https://stylelint.io/user-guide/rules/declaration-colon-space-before/
+- require 1 space between `:` and values https://stylelint.io/user-guide/rules/declaration-colon-space-after/
 - require new line after declarations
 - require `;` in last declaration
 - require 1 space between values and `!important`
